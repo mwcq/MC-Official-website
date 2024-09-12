@@ -3,7 +3,7 @@ import "./App.css";
 import styled from "styled-components";
 import Hero from "./components/Hero";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Layout from "./layout/layout";
+import Layout from "./layout/Layout";
 import HomePage from "./routes/HomePage";
 
 function App() {
